@@ -7,7 +7,7 @@ import android.util.Log
 import com.heiko.sample.databinding.ActivityMainBinding
 
 
-class MainActivity : AppCompatActivity() {
+class SaveInstanceStateActivity : AppCompatActivity() {
     companion object {
         private const val TAG = "Z-MainActivity"
         private const val KEY_NAME = "KEY_NAME"
